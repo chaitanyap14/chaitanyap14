@@ -1,5 +1,5 @@
 - 👋 Hi, I am Chaitanya Palghadmal (@chaitanyap14).
-- 👀 I’m interested in front-end development because it's fun.
+- 👀 I’m interested in web development, cross-platform software development and blockchain app development.
 - 🌱 Currently pursuing my bachelor's degree in Computer Engineering from Pimpri Chinchwad College of Engineering, Pune.
 - 💞️ My aim is to learn and be the best that I can be.
 
