@@ -1,6 +1,6 @@
 - 👋 Hi, I am Chaitanya Palghadmal (@chaitanyap14).
-- 👀 I’m interested in web development, cross-platform software development and blockchain app development.
-- 🌱 Currently pursuing my bachelor's degree in Computer Engineering from Pimpri Chinchwad College of Engineering, Pune.
+- 👀 I'm a data science and finance enthusiast with a strong forex trading background.
+- 🌱 I have a bachelor's degree in Computer Engineering from Pimpri Chinchwad College of Engineering, Pune. Currently at the University of Windsor, Ontario, studying Master of Management in Business Data Analytics.
 - 💞️ My aim is to learn and be the best that I can be.
 
 <!---
