@@ -1,4 +1,5 @@
-- 👋 Hi, I am Chaitanya Palghadmal (@chaitanyap14).
+Hi, my name is 
+<h1>Chaitanya Palghadmal</h1>
 - 👀 I'm a data science and machine learning enthusiast strongly inclined toward quantitative trading and research.
 - 🌱 I have a bachelor's degree in Computer Engineering from Pimpri Chinchwad College of Engineering, Pune. I am currently pursuing a master's degree in management and business data analytics at the University of Windsor, Ontario.
 - 💞️ My goal is to apply my ML skills to develop scalable solutions to complex problems.
