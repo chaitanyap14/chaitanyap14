@@ -21,7 +21,7 @@
   </p>
   <p>
     I’ve had the privilege of working as a self-employed currency trader & a web
-    development intern. My main focus these days is on studying, researching, and
+    development intern at PCET. My main focus these days is on studying, researching, and
     developing models using novel predictive machine learning and
     reinforcement learning approaches in a quantitative investment context.
   </p>
