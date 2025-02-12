@@ -13,6 +13,8 @@
   but better, with data-driven insights instead of cryptic poetry.
 </p>
 
+<img style="display: block; margin: auto;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmprenBmMDZteTd2NGRlODM0YXp4OTIzbnE1OGtzejkzbXY1eGk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VelUfLV3j2dOM/giphy.gif" width=60%>
+
 <div>
   <p>
     I enjoy building data-driven solutions and models that solve all kinds of complex problems.
@@ -33,6 +35,7 @@ This is what I can do.
     Data Analysis & Visualization
     Programming & Software Development
     Team Leadership & Collaboration
+
 
 <!---
 chaitanyap14/chaitanyap14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
