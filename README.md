@@ -41,11 +41,6 @@ print("Things I can do:
      ")
 ```
 
-Contact me!
-
-*   Email: work.chaitanyap@gmail.com
-*   LinkedIn: https://www.linkedin.com/in/chaitanyap14
-*   Github: https://www.github.com/chaitanyap14
 <!---
 chaitanyap14/chaitanyap14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
