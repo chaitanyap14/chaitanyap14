@@ -15,7 +15,7 @@
 
 <div>
   <p>
-    My name is Chaitanya and I enjoy building data-driven solutions. I build models that solve all kinds of complex problems.
+    I enjoy building data-driven solutions and models that solve all kinds of complex problems.
   </p>
   <p>
     I’ve had the privilege of working as a self-employed currency trader & a web
