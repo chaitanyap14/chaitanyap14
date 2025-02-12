@@ -13,7 +13,7 @@
   but better, with data-driven insights instead of cryptic poetry.
 </p>
 
-<img style="display: block; margin: auto;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmprenBmMDZteTd2NGRlODM0YXp4OTIzbnE1OGtzejkzbXY1eGk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VelUfLV3j2dOM/giphy.gif" width=60%>
+<img style="display: block; margin: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRub2o0M2d4MmxnM2Y0bzJ5dnlxZnRuZWN3cXByOGRtYXg4ajh1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDGKJdRBbLmGA/giphy.gif" width=60%>
 
 <div>
   <p>
@@ -27,16 +27,25 @@
   </p>
 </div>
     
-This is what I can do.
-   
-    Quantitative Analysis
-    Algorithmic Trading
-    Deep Learning & Machine Learning
-    Data Analysis & Visualization
-    Programming & Software Development
-    Team Leadership & Collaboration
+```
+print("Things I can do:
+       \n\n
 
+      * Quantitative Analysis\n
+      * Algorithmic Trading\n
+      * Deep Learning & Machine Learning\n
+      * Data Analysis & Visualization\n
+      * Programming & Software Development\n
+      * Team Leadership & Collaboration\n
+      
+     ")
+```
 
+Contact me!
+
+*   Email: work.chaitanyap@gmail.com
+*   LinkedIn: https://www.linkedin.com/in/chaitanyap14
+*   Github: https://www.github.com/chaitanyap14
 <!---
 chaitanyap14/chaitanyap14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
