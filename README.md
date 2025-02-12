@@ -13,7 +13,7 @@
   but better, with data-driven insights instead of cryptic poetry.
 </p>
 
-<img style="display: block; margin: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRub2o0M2d4MmxnM2Y0bzJ5dnlxZnRuZWN3cXByOGRtYXg4ajh1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDGKJdRBbLmGA/giphy.gif" width=60%>
+<img style="display: block; margin: auto;" src="michael burry drumming.gif" width=60%>
 
 <div>
   <p>
