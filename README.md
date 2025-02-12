@@ -41,6 +41,9 @@ print("Things I can do:
      ")
 ```
 
+<h3>Let's work together</h3>
+Here's my email
+work.chaitanyap@gmail.com
 <!---
 chaitanyap14/chaitanyap14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
