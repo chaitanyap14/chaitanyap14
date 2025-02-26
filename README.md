@@ -13,7 +13,7 @@
   but better, with data-driven insights instead of cryptic poetry.
 </p>
 
-<img src="michael burry drumming.gif" width=60%>
+<img src="michaelburrydrumming.gif" width=60%>
 
 <div>
   <p>
