@@ -13,7 +13,7 @@
   but better, with data-driven insights instead of cryptic poetry.
 </p>
 
-<img style="display: block; margin: auto;" src="michael burry drumming.gif" width=60%>
+<img src="michael burry drumming.gif" width=60%>
 
 <div>
   <p>
@@ -42,6 +42,12 @@ print("Things I can do:
 ```
 
 <h3>Let's work together!</h3>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/chaitanyap14">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!---
 chaitanyap14/chaitanyap14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
