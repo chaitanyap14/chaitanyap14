@@ -10,7 +10,7 @@
       rel="noreferrer">
       Nostradamus,
     </a>
-  but better, with data-driven insights instead of cryptic poetry.
+  but better.
 </p>
 
 <img src="michaelburrydrumming.gif" width=60%>
